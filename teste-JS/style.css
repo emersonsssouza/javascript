@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+div {
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+script {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
